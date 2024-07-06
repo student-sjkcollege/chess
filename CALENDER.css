@@ -1,0 +1,28 @@
+thead{
+    border-style: dashed;
+    border-color: black;
+    background-color: lightblue;
+}
+table{
+    border-color: black;
+     border-style: dashed;
+     
+}
+h2{
+    border-style: dotted;
+    border-width: thin;
+    border-color: black;
+}
+tr, th{
+     border-style:dotted;
+     border-color:red;
+    }
+
+
+    table,td,tr,th{
+        border: solid 2px rgb(163, 159, 159);
+        border-collapse: collapse;
+        th{background:pink;}td{background-color:skyblue;}
+     
+     } 
+  

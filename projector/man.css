@@ -1,0 +1,36 @@
+body{
+    background-color:bisque;
+}
+#canvas{
+}
+#head{
+    text-align: center;
+}
+.game-area{
+    width: 90%;
+    margin: 20px auto;
+}
+#canvas{
+    margin: 0px 200px;
+}
+#display{
+    width: 100%;
+    border: 8px groove blue;
+    padding: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: black;
+    color: yellow;
+    margin: 0px auto;
+    box-shadow: 15px 15px 10 #ccc; 
+}
+#name, #scoure, #time,#pbestScoure,#bestScoure,#player{
+    width: 150px;
+    padding: 10px;
+    float: left;
+    font-size: 20px;
+    height: 50px;
+    text-align: left;
+    font-family: cursive;
+    margin: 0px 10px;
+}
